@@ -117,6 +117,7 @@ def plotTest003003():
 
     axs[1].set_title('blue should be down')
     axs[1].imshow(x, origin='lower', interpolation=interp)
+
     plt.show()
 
 
